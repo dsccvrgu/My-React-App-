@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+# TRVL
+
+A web based application which lets you explore different holiday destinations around the world.
+
+## About The Project
+
+Its a website which let you explore about different destinations around the world and it gives you options for services that can be provied to the user according to their requirements.
+React classes like React router dom and useState has been used to create this application 
+
+## Built with
+
+* [React.js](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+
+## Project Status
+
+This project is currently in development. It can be updated according to clients requirement that what features they want to show to the users about their product.
+
+## Getting Started
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
