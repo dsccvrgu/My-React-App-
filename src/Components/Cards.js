@@ -45,6 +45,33 @@ function Cards() {
                         />
                         
                     </ul>
+                    <ul className='cards__items'>
+                        <CardItem
+                            src={require('../Assets/images/img-9.jpg').default}
+                            text="Explore the hidden waterfall deep
+                            inside the Amazon Jungle"
+                            label='Adventure'
+                            path='/services'
+                        />
+                        <CardItem
+                            src={require('../Assets/images/img-2.jpg').default}
+                            text="Travel through the islads of Bali in a Private cruise"
+                            label='Luxury'
+                            path='/services'
+                        />
+                          <CardItem
+                            src={require('../Assets/images/img-2.jpg').default}
+                            text="Travel through the islads of Bali in a Private cruise"
+                            label='Luxury'
+                            path='/services'
+                        />
+                         <CardItem
+                            src={require('../Assets/images/img-8.jpg').default}
+                            text="Ride through the Sahara Desert on a guided camel tour"
+                            label='Adrenaline'
+                            path='/sign-up'
+                        />
+                    </ul>
                 </div>
             </div>
         </div>
